@@ -9,12 +9,10 @@ Here’s a suggested **README.md** template for your GitHub profile (anjana32). 
 
 ## 🧭 About Me
 
-- 🔭 I’m currently pursuing studies / working on [your current role or project]  
-- 🌱 I’m learning more about [technologies, languages or domains you're learning, e.g. Python, Web Development, Machine Learning]  
-- 👯 I’m looking to collaborate on projects involving [areas of interest, e.g. frontend, full-stack, data science]  
-- 💬 Ask me about anything related to [topics you’re comfortable with]  
-- 📫 How to reach me: [email (optional) / LinkedIn / Twitter / other]  
-- ⚡ Fun fact: [something interesting about you, hobby, etc.]
+- 🔭 I’m currently pursuing "Full stack development Course" 
+- 🌱 I’m learning more about technologies, languages or domains  e.g. Java, HTML, CSS, React, JavaScript, Python, MySQL.
+- 👯 I’m looking to collaborate on projects involving areas of interest, e.g. frontend, full-stack, backend.
+- 💬 Ask me about anything related to topics you’re comfortable with
 
 ---
 
@@ -22,7 +20,7 @@ Here’s a suggested **README.md** template for your GitHub profile (anjana32). 
 
 | Frontend | Backend | Tools & Others |
 |---|---|---|
-| HTML • CSS • JavaScript • [other frontend tech] | Python • [other backend tech] | Git • GitHub • VSCode • [other tools] |
+| HTML • CSS • JavaScript  | Python  | Git • GitHub • VSCode • Eclipse |
 
 ---
 
@@ -43,8 +41,8 @@ You can find more in my [repositories list](https://github.com/anjana32?tab=repo
 
 ## 🌱 Currently Learning
 
-- [Technology or topic you are learning now]  
-- [Another thing you want to improve or explore]
+- React , Redux
+- SpringBoot
 
 ---
 
@@ -56,8 +54,8 @@ You can find more in my [repositories list](https://github.com/anjana32?tab=repo
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjana-blue?logo=linkedin)](https://www.linkedin.com/in/[your-linkedin-profile])  
-[![Gmail](https://img.shields.io/badge/Gmail-YourEmail%40domain.com-red?logo=gmail)](mailto:youremail@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjana-blue?logo=linkedin)](https://www.linkedin.com/in/anjana63740/)  
+[![Gmail](https://img.shields.io/badge/Gmail-YourEmail%40domain.com-red?logo=gmail)](mailto:anjanaradhakrishnan56@gmail.com)
 
 ---
 
@@ -66,5 +64,3 @@ You can find more in my [repositories list](https://github.com/anjana32?tab=repo
 ```
 
 ---
-
-If you like, I can generate a more customized version for you (with real links, badges, images) and give you the markdown to just paste into your profile. Do you want me to build that?
