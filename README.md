@@ -1,8 +1,4 @@
-Here’s a suggested **README.md** template for your GitHub profile (anjana32). You can customize it by filling in the parts marked with brackets `[...]` or tweaking sections to match your preferences.
 
----
-
-```markdown
 # Hi there 👋 I'm ANJANA R (anjana32)
 
 ---
