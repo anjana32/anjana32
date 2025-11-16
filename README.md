@@ -16,7 +16,7 @@
 
 | Frontend | Backend | Tools & Others |
 |---|---|---|
-| HTML • CSS • JavaScript  | Python  | Git • GitHub • VSCode • Eclipse |
+| HTML • CSS • JavaScript  | Java Python  | Git • GitHub • VSCode • Eclipse |
 
 ---
 
