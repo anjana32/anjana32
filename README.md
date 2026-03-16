@@ -39,6 +39,7 @@ You can find more in my [repositories list](https://github.com/anjana32?tab=repo
 
 - React , Redux
 - SpringBoot
+- Django
 
 ---
 
